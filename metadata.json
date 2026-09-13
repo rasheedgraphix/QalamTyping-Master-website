@@ -1,0 +1,7 @@
+{
+  "name": "Baytul Ilm AI",
+  "description": "Official website and APK download portal for Baytul Ilm AI - the comprehensive Android Islamic education app for Dars-e-Nizami, Quran, AI learning assistant, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

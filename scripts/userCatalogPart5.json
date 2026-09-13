@@ -1,0 +1,374 @@
+[
+  {
+    "darjaName": "درجہ سابعہ (سال ہفتم / Seventh Year - موقوف علیہ)",
+    "darjaKey": "درجہ سابعہ",
+    "books": [
+      {
+        "id": "sabea_mishkat_ul_masabeeh_vol1_bushra",
+        "title": "مشکوٰۃ المصابیح (جلد اول - مکتبۃ البشریٰ رنگین)",
+        "author": "محمد بن عبد الله الخطيب التبريزي",
+        "subject": "حدیث",
+        "darja": "درجہ سابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabia7thYear1/MishkatUlMasabeehVol1AlBushraColor.pdf"
+      },
+      {
+        "id": "sabea_mishkat_ul_masabeeh_vol2_bushra",
+        "title": "مشکوٰۃ المصابیح (جلد دوم - مکتبۃ البشریٰ رنگین)",
+        "author": "محمد بن عبد الله الخطيب التبريزي",
+        "subject": "حدیث",
+        "darja": "درجہ سابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabia7thYear1/MishkatUlMasabeehVol2AlBushraColor.pdf"
+      },
+      {
+        "id": "sabea_mishkat_ul_masabeeh_vol3_bushra",
+        "title": "مشکوٰۃ المصابیح (جلد سوم - مکتبۃ البشریٰ رنگین)",
+        "author": "محمد بن عبد الله الخطيب التبريزي",
+        "subject": "حدیث",
+        "darja": "درجہ سابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabia7thYear1/MishkatUlMasabeehVol3AlBushraColor.pdf"
+      },
+      {
+        "id": "sabea_mirqat_ul_mafatih_vol1",
+        "title": "مرقاۃ المفاتیح شرح مشکوٰۃ المصابیح (جلد اول)",
+        "author": "ملا علی قاری حنفیؒ",
+        "subject": "حدیث",
+        "darja": "درجہ سابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/MirqatUlMafateehVol1/MirqatUlMafateehVol1AlBushraColor.pdf"
+      },
+      {
+        "id": "sabea_mirqat_ul_mafatih_vol2",
+        "title": "مرقاۃ المفاتیح شرح مشکوٰۃ المصابیح (جلد دوم)",
+        "author": "ملا علی قاری حنفیؒ",
+        "subject": "حدیث",
+        "darja": "درجہ سابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/MirqatUlMafateehVol2/MirqatUlMafateehVol2AlBushraColor.pdf"
+      },
+      {
+        "id": "sabea_mazahir_e_haq_vol1",
+        "title": "مظاہر حق جدید (جلد اول - اردو شرح مشکوٰۃ)",
+        "author": "نواب قطب الدین خان دہلویؒ",
+        "subject": "حدیث",
+        "darja": "درجہ سابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/MazahirEHaqJadeedVol1/Mazahir%20E%20Haq%20Jadeed%20Vol%201.pdf"
+      },
+      {
+        "id": "sabea_mazahir_e_haq_vol2",
+        "title": "مظاہر حق جدید (جلد دوم)",
+        "author": "نواب قطب الدین خان دہلویؒ",
+        "subject": "حدیث",
+        "darja": "درجہ سابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/MazahirEHaqJadeedVol2/Mazahir%20E%20Haq%20Jadeed%20Vol%202.pdf"
+      },
+      {
+        "id": "sabea_shurooh_e_mishkat_vol1",
+        "title": "تحفۃ القاری شرح مشکوٰۃ المصابیح",
+        "author": "مولانا مفتی سعید احمد پالنپوریؒ",
+        "subject": "حدیث",
+        "darja": "درجہ سابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/TuhfatulQariMishkat/TuhfatulQariMishkatVol1.pdf"
+      },
+      {
+        "id": "sabea_sharh_mukhba_tul_fiker",
+        "title": "نخبۃ الفکر فی مصطلح اہل الاثر (مکتبۃ البشریٰ)",
+        "author": "حافظ ابن حجر عسقلانیؒ",
+        "subject": "اصول حدیث",
+        "darja": "درجہ سابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabia7thYear1/NukhbaTulFikerAlBushraColor.pdf"
+      },
+      {
+        "id": "sabea_nuzhat_un_nazar",
+        "title": "نزہۃ النظر فی توضیح نخبۃ الفکر",
+        "author": "حافظ ابن حجر عسقلانیؒ",
+        "subject": "اصول حدیث",
+        "darja": "درجہ سابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabia7thYear1/NuzhatUnNazarSharhNukhbaTulFiker.pdf"
+      },
+      {
+        "id": "sabea_tafseer_ul_baidawi_vol1",
+        "title": "تفسیر البیضاوی (انوار التنزیل واسرار التاویل - جلد اول)",
+        "author": "علامہ ناصر الدین عبد اللہ بن عمر البیضاویؒ",
+        "subject": "تفسیر",
+        "darja": "درجہ سابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabia7thYear1/TafseerUlBaidawiVol1AlBushraColor.pdf"
+      },
+      {
+        "id": "sabea_tafseer_baidawi_urdu_sharh",
+        "title": "انوار التنزیل شرح اردو تفسیر بیضاوی",
+        "author": "علمائے دیوبند",
+        "subject": "تفسیر",
+        "darja": "درجہ سابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/TafseerBaidawiUrdu/TafseerBaidawiUrduVol1.pdf"
+      },
+      {
+        "id": "sabea_al_musamarah_sharh_musayarah",
+        "title": "المسامرۃ شرح المسایرۃ فی علم الکلام",
+        "author": "کمال الدین محمد بن ابی شریف المقدسی الشافعیؒ",
+        "subject": "عقائد و کلام",
+        "darja": "درجہ سابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSabia7thYear1/AlMusamarahSharhAlMusayarah.pdf"
+      },
+      {
+        "id": "sabea_tahawi_shareef_vol1",
+        "title": "شرح معانی الآثار (طحاوی شریف - جلد اول)",
+        "author": "امام ابو جعفر احمد بن محمد الطحاویؒ",
+        "subject": "حدیث و فقہ",
+        "darja": "درجہ سابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/TahawiSharifVol1/TahawiSharifVol1AlBushra.pdf"
+      },
+      {
+        "id": "sabea_tahawi_shareef_vol2",
+        "title": "شرح معانی الآثار (طحاوی شریف - جلد دوم)",
+        "author": "امام ابو جعفر الطحاویؒ",
+        "subject": "حدیث و فقہ",
+        "darja": "درجہ سابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/TahawiSharifVol2/TahawiSharifVol2AlBushra.pdf"
+      }
+    ]
+  },
+  {
+    "darjaName": "درجہ ثامنہ (دورۂ حدیث شریف / Final Year - Daura-e-Hadith)",
+    "darjaKey": "درجہ ثامنہ",
+    "books": [
+      {
+        "id": "samina_sahih_al_bukhari_vol1_bushra",
+        "title": "صحیح البخاری (جلد اول - مکتبۃ البشریٰ رنگین)",
+        "author": "امیر المومنین فی الحدیث ابو عبد اللہ محمد بن اسماعیل البخاریؒ",
+        "subject": "صحاح ستہ / حدیث",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/BukhariShareefVol1AlBushraColor.pdf"
+      },
+      {
+        "id": "samina_sahih_al_bukhari_vol2_bushra",
+        "title": "صحیح البخاری (جلد دوم - مکتبۃ البشریٰ رنگین)",
+        "author": "امام محمد بن اسماعیل البخاریؒ",
+        "subject": "صحاح ستہ / حدیث",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/BukhariShareefVol2AlBushraColor.pdf"
+      },
+      {
+        "id": "samina_sahih_al_bukhari_vol3_bushra",
+        "title": "صحیح البخاری (جلد سوم - مکتبۃ البشریٰ رنگین)",
+        "author": "امام محمد بن اسماعیل البخاریؒ",
+        "subject": "صحاح ستہ / حدیث",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/BukhariShareefVol3AlBushraColor.pdf"
+      },
+      {
+        "id": "samina_fath_ul_bari_vol1",
+        "title": "فتح الباری شرح صحیح البخاری (جلد اول)",
+        "author": "حافظ شہاب الدین احمد بن علی بن حجر العسقلانیؒ",
+        "subject": "شرح بخاری",
+        "darja": "درجہ ثامنہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/FathUlBariSharhBukhari/FathUlBariVol01.pdf"
+      },
+      {
+        "id": "samina_fath_ul_bari_vol2",
+        "title": "فتح الباری شرح صحیح البخاری (جلد دوم)",
+        "author": "حافظ ابن حجر العسقلانیؒ",
+        "subject": "شرح بخاری",
+        "darja": "درجہ ثامنہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/FathUlBariSharhBukhari/FathUlBariVol02.pdf"
+      },
+      {
+        "id": "samina_umdat_ul_qari_vol1",
+        "title": "عمدۃ القاری شرح صحیح البخاری (جلد اول)",
+        "author": "علامہ بدر الدین محمود بن احمد العینی الحنفیؒ",
+        "subject": "شرح بخاری",
+        "darja": "درجہ ثامنہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/UmdatUlQariSharhBukhari/UmdatUlQariVol01.pdf"
+      },
+      {
+        "id": "samina_in_am_ul_bari_vol1",
+        "title": "انعام الباری دروس صحیح البخاری (جلد اول)",
+        "author": "شیخ الاسلام مفتی محمد تقی عثمانی مدظلہ",
+        "subject": "شرح بخاری",
+        "darja": "درجہ ثامنہ",
+        "type": "تقریر و شرح",
+        "pdfUrl": "https://archive.org/download/InaamUlBariDuroosBukhari/InaamUlBariVol01.pdf"
+      },
+      {
+        "id": "samina_sahih_muslim_vol1_bushra",
+        "title": "صحیح مسلم (جلد اول - مکتبۃ البشریٰ رنگین)",
+        "author": "امام ابو الحسین مسلم بن الحجاج النیسابوریؒ",
+        "subject": "صحاح ستہ / حدیث",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/MuslimShareefVol1AlBushraColor.pdf"
+      },
+      {
+        "id": "samina_sahih_muslim_vol2_bushra",
+        "title": "صحیح مسلم (جلد دوم - مکتبۃ البشریٰ رنگین)",
+        "author": "امام مسلم بن الحجاج النیسابوریؒ",
+        "subject": "صحاح ستہ / حدیث",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/MuslimShareefVol2AlBushraColor.pdf"
+      },
+      {
+        "id": "samina_sharh_sahih_muslim_nawawi_vol1",
+        "title": "شرح صحیح مسلم للامام النووی (جلد اول)",
+        "author": "امام محیی الدین یحییٰ بن شرف النوویؒ",
+        "subject": "شرح مسلم",
+        "darja": "درجہ ثامنہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/SharhNawawiAlaMuslim/SharhNawawiVol01.pdf"
+      },
+      {
+        "id": "samina_fath_ul_mulhim_vol1",
+        "title": "فتح الملہم بشرح صحیح مسلم (جلد اول)",
+        "author": "علامہ شبیر احمد عثمانیؒ و مفتی محمد تقی عثمانی مدظلہ",
+        "subject": "شرح مسلم",
+        "darja": "درجہ ثامنہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/FathUlMulhimSharhMuslim/FathUlMulhimVol01.pdf"
+      },
+      {
+        "id": "samina_sunan_at_tirmidhi_vol1_bushra",
+        "title": "جامع الترمذی (جلد اول - مکتبۃ البشریٰ رنگین)",
+        "author": "امام ابو عیسیٰ محمد بن عیسیٰ الترمذیؒ",
+        "subject": "صحاح ستہ / حدیث",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/TirmiziShareefVol1AlBushraColor.pdf"
+      },
+      {
+        "id": "samina_sunan_at_tirmidhi_vol2_bushra",
+        "title": "جامع الترمذی (جلد دوم - مکتبۃ البشریٰ رنگین)",
+        "author": "امام ابو عیسیٰ محمد بن عیسیٰ الترمذیؒ",
+        "subject": "صحاح ستہ / حدیث",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/TirmiziShareefVol2AlBushraColor.pdf"
+      },
+      {
+        "id": "samina_dars_e_tirmidhi_vol1",
+        "title": "درسِ ترمذی (جلد اول)",
+        "author": "شیخ الاسلام مفتی محمد تقی عثمانی مدظلہ",
+        "subject": "شرح ترمذی",
+        "darja": "درجہ ثامنہ",
+        "type": "تقریر و شرح",
+        "pdfUrl": "https://archive.org/download/DarseTirmidhiMuftiTaqiUsmani/DarseTirmidhiVol1.pdf"
+      },
+      {
+        "id": "samina_sunan_abi_dawood_vol1_bushra",
+        "title": "سنن ابی داود (جلد اول - مکتبۃ البشریٰ رنگین)",
+        "author": "امام ابو داود سلیمان بن الاشعث السجستانیؒ",
+        "subject": "صحاح ستہ / حدیث",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/AbuDawoodShareefVol1AlBushraColor.pdf"
+      },
+      {
+        "id": "samina_sunan_abi_dawood_vol2_bushra",
+        "title": "سنن ابی داود (جلد دوم - مکتبۃ البشریٰ رنگین)",
+        "author": "امام ابو داود السجستانیؒ",
+        "subject": "صحاح ستہ / حدیث",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/AbuDawoodShareefVol2AlBushraColor.pdf"
+      },
+      {
+        "id": "samina_bazl_ul_majhood_vol1",
+        "title": "بذل المجهود فی حل ابی داود (جلد اول)",
+        "author": "علامہ خلیل احمد سہارنپوریؒ",
+        "subject": "شرح ابی داود",
+        "darja": "درجہ ثامنہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/BazlulMajhood/BazlulMajhoodVol01.pdf"
+      },
+      {
+        "id": "samina_sunan_an_nasai_vol1_bushra",
+        "title": "سنن النسائی (جلد اول - مکتبۃ البشریٰ رنگین)",
+        "author": "امام ابو عبد الرحمن احمد بن شعیب النسائیؒ",
+        "subject": "صحاح ستہ / حدیث",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/NasaiShareefVol1AlBushraColor.pdf"
+      },
+      {
+        "id": "samina_sunan_an_nasai_vol2_bushra",
+        "title": "سنن النسائی (جلد دوم - مکتبۃ البشریٰ رنگین)",
+        "author": "امام احمد بن شعیب النسائیؒ",
+        "subject": "صحاح ستہ / حدیث",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/NasaiShareefVol2AlBushraColor.pdf"
+      },
+      {
+        "id": "samina_sunan_ibn_majah_bushra",
+        "title": "سنن ابن ماجہ (مکتبۃ البشریٰ رنگین)",
+        "author": "امام ابو عبد اللہ محمد بن یزید ابن ماجہ القزوینیؒ",
+        "subject": "صحاح ستہ / حدیث",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/IbnEMajaShareefAlBushraColor.pdf"
+      },
+      {
+        "id": "samina_muwatta_imam_malik_bushra",
+        "title": "مؤطا امام مالک بروایت یحییٰ اللیثی (مکتبۃ البشریٰ)",
+        "author": "امام دار الہجرۃ مالک بن انس الاصبحیؒ",
+        "subject": "حدیث و فقہ",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/MawattaImamMalikAlBushraColor.pdf"
+      },
+      {
+        "id": "samina_muwatta_imam_muhammad_bushra",
+        "title": "مؤطا امام محمد بروایت امام محمد بن الحسن الشیبانیؒ",
+        "author": "امام محمد بن الحسن الشیبانیؒ / امام مالک بن انسؒ",
+        "subject": "حدیث و فقہ",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/MawattaImamMuhammadAlBushraColor.pdf"
+      },
+      {
+        "id": "samina_sharh_mushkil_ul_aasaar_vol1",
+        "title": "شرح مشکل الآثار (جلد اول)",
+        "author": "امام ابو جعفر احمد بن محمد الطحاویؒ",
+        "subject": "حدیث و درایت",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/MushkilUlAasaarTahawi/MushkilUlAasaarVol01.pdf"
+      },
+      {
+        "id": "samina_shamail_at_tirmidhi_bushra",
+        "title": "شمائل الترمذی (مکتبۃ البشریٰ رنگین)",
+        "author": "امام ابو عیسیٰ محمد بن عیسیٰ الترمذیؒ",
+        "subject": "سیرت و شمائل نبوی",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDauraEHadith8thYear/ShamailETirmiziAlBushraColor.pdf"
+      },
+      {
+        "id": "samina_khasaise_kubra_vol1",
+        "title": "الخصائص الکبریٰ (جلد اول)",
+        "author": "امام جلال الدین عبد الرحمن السیوطیؒ",
+        "subject": "سیرت و معجزات",
+        "darja": "درجہ ثامنہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/KhasaisEKubraUrdu/KhasaisEKubraVol1.pdf"
+      }
+    ]
+  }
+]

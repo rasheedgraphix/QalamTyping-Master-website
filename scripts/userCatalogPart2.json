@@ -1,0 +1,1023 @@
+{
+  "darjaName": "درجہ ثانیہ (سال دوم / Second Year)",
+  "darjaKey": "درجہ ثانیہ",
+  "books": [
+    {
+      "id": "sania_duroos_ul_quran",
+      "title": "دروس القرآن (پارہ عم)",
+      "author": "مولانا عبد الرحمن",
+      "subject": "تفسیر",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/DUROOS_UL_QURAN_PARA_AMMA.pdf"
+    },
+    {
+      "id": "sania_darsi_tafseer",
+      "title": "درسی تفسیر (اردو)",
+      "author": "علماء دیوبند",
+      "subject": "تفسیر",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/DarsiTafseerUrduTafseerParaAmm.pdf"
+    },
+    {
+      "id": "sania_kashf_ul_gham",
+      "title": "کشف الغم (تفسیر پارہ عم)",
+      "author": "مولانا کشف الرحمن",
+      "subject": "تفسیر",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/KASHFUL_GHAM_URDU_TAFSIR_PARA_AMM.pdf"
+    },
+    {
+      "id": "sania_tafseel_ul_kitab",
+      "title": "تفصیل الکتاب (تفسیر پارہ عم)",
+      "author": "مولانا تفصیل الحق",
+      "subject": "تفسیر",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://ia600709.us.archive.org/23/items/DarsENizamiDarjaSaniah2ndYear1/TafseelUlKitabUrduTaseerParaAmm.pdf"
+    },
+    {
+      "id": "sania_tadrees_e_quran_p29",
+      "title": "تدریس القرآن (پارہ 29)",
+      "author": "مولانا تدریس الرحمن",
+      "subject": "تفسیر",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/2809_19/TADREES_E_QURAN_PARA_29.pdf"
+    },
+    {
+      "id": "sania_rozat_ut_talibeen",
+      "title": "روضۃ الطالبین (شرح زاد الطالبین)",
+      "author": "مولانا عاشق الہی بلند شہری",
+      "subject": "حدیث",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/RozaTutTalibeen.pdf"
+    },
+    {
+      "id": "sania_irshad_ul_talibeen",
+      "title": "ارشاد الطالبین (شرح زاد الطالبین)",
+      "author": "مولانا ارشاد احمد",
+      "subject": "حدیث",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/IrshadUlTalibeen.pdf"
+    },
+    {
+      "id": "sania_mukhtar_ut_talibeen",
+      "title": "مختار الطالبین (اردو شرح زاد الطالبین)",
+      "author": "مولانا مختار احمد",
+      "subject": "حدیث",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/MukhtarUtTalebeenUrduSharhZadutTalebeen.pdf"
+    },
+    {
+      "id": "sania_moeen_ut_talibeen",
+      "title": "معین الطالبین (اردو شرح زاد الطالبین)",
+      "author": "مولانا معین الدین",
+      "subject": "حدیث",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/MoeenUtTalebeenUrduSharhZadutTalebeen.pdf"
+    },
+    {
+      "id": "sania_hadaiq_us_saleheen",
+      "title": "حدائق الصالحین (اردو شرح زاد الطالبین)",
+      "author": "مولانا صالح محمد",
+      "subject": "حدیث",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/HadaiqUsSaleheenUrduSharhZadutTalebeen.pdf"
+    },
+    {
+      "id": "sania_imdad_ul_talibeen",
+      "title": "إمداد الطالبین (شرح زاد الطالبین)",
+      "author": "مولانا امداد اللہ",
+      "subject": "حدیث",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/IMDAD_AL_TALIBEEN_SHARH_ZAD_AL_TALIBEEN.pdf"
+    },
+    {
+      "id": "sania_tasheel_uz_zaroori",
+      "title": "التسهيل الضروري (مکتبۃ البشریٰ رنگین)",
+      "author": "الشيخ عاشق الہی البرني",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlTasheelUlZaroriAlBushraColor.pdf"
+    },
+    {
+      "id": "sania_jauharatun_naiyyarah",
+      "title": "الجوهرة النيرة (شرح مختصر القدوري)",
+      "author": "الشيخ أبابكر بن علي الحدادي",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlJaoharaTunNaiyyarahMeerMuhammad.pdf"
+    },
+    {
+      "id": "sania_tashreeh_ul_wafi",
+      "title": "التشريح الوافي (شرح قدوري)",
+      "author": "مولانا تشريح الحق",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AL_TASHRIH_UL_WAFI_SHARH_QUDOORI.pdf"
+    },
+    {
+      "id": "sania_afzal_al_tatbeeq_al_asri",
+      "title": "أفضل التطبيق العصري (شرح قدوري)",
+      "author": "مولانا أفضل حسين",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/afzal-al-tatbeeq-al-asri/AFZAL_AL_TATBEEQ_AL_ASRI.pdf"
+    },
+    {
+      "id": "sania_ishraq_noori",
+      "title": "اشراق نوری (اردو شرح قدوری)",
+      "author": "مولانا محمد انوار الله",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/darrs2/ISHRAQ_NOORI.pdf"
+    },
+    {
+      "id": "sania_ashraf_ul_noori_1",
+      "title": "اشرف النوری (جلد اول)",
+      "author": "مولانا اشرف علی ثانوی",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/ASHRAF-UL-NOORI-VOL-01.pdf"
+    },
+    {
+      "id": "sania_sharh_us_sameeri_1",
+      "title": "الشرح السمیری (اردو شرح قدوری جلد 1)",
+      "author": "مولانا سمیر الدین قاسمی",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlSharhUsSameeriUrduSharhAlQuduriVol1.pdf"
+    },
+    {
+      "id": "sania_takmeel_uz_zaroori",
+      "title": "التکمیل الضروری (اردو شرح القدوری)",
+      "author": "مولانا عبد الرحمن",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlTakmeelUzZarooriUrduSharhAlQuduri.pdf"
+    },
+    {
+      "id": "sania_hal_ul_zaroori",
+      "title": "الحل الضروری (شرح قدوری)",
+      "author": "مولانا محمد بشیر",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AL-HAL-UL-ZARORI.pdf"
+    },
+    {
+      "id": "sania_qaul_us_sawab",
+      "title": "القول الصواب فی مسائل الکتاب",
+      "author": "مولانا صواب علی",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://ia600709.us.archive.org/23/items/DarsENizamiDarjaSaniah2ndYear1/AlQaolUsSawabFiMasailIlKitab.pdf"
+    },
+    {
+      "id": "sania_qaul_ul_mukhtar",
+      "title": "القول المختار (شرح قدوری)",
+      "author": "مولانا مختار احمد",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/20102019/AL_QAWL_UL_MUKHTAR.pdf"
+    },
+    {
+      "id": "sania_anwaar_ul_quduri_1",
+      "title": "أنوار القدوری (جلد اول)",
+      "author": "مولانا انوار الحق",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/11320/ANWAAR_UL_QUDURI_VOL_01.pdf"
+    },
+    {
+      "id": "sania_quduri_ahadith_usool",
+      "title": "القدوری مع أحادیثه وأصوله",
+      "author": "مولانا سمیر الدین قاسمی",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/maulana-samiruddin-qasmi/AL_QUDURI_MAA_AHADITHIH_WA_USOOLIH_01.pdf"
+    },
+    {
+      "id": "sania_ilm_us_segha_qadeemi",
+      "title": "علم الصیغہ (قدیمی)",
+      "author": "مفتی عنایت احمد کاکوروی",
+      "subject": "صرف",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/IlmUsSeghaQademi.pdf"
+    },
+    {
+      "id": "sania_ilm_us_segha_bushra",
+      "title": "علم الصیغہ (مکتبۃ البشریٰ رنگین)",
+      "author": "مفتی عنایت احمد کاکوروی",
+      "subject": "صرف",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/IlmUsSeghaAlBushraColor.pdf"
+    },
+    {
+      "id": "sania_ilm_us_segha_urdu",
+      "title": "علم الصیغہ (اردو)",
+      "author": "مفتی عنایت احمد کاکوروی",
+      "subject": "صرف",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/IlmUsSighaUrdu.pdf"
+    },
+    {
+      "id": "sania_ashraf_ul_segha",
+      "title": "أشرف الصیغہ (شرح علم الصیغہ)",
+      "author": "مولانا اشرف علی",
+      "subject": "صرف",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AshrafUlSegahMeerMuhammad.pdf"
+    },
+    {
+      "id": "sania_irshad_us_segha",
+      "title": "إرشاد الصیغہ (اردو شرح علم الصیغہ)",
+      "author": "مولانا ارشاد حسین",
+      "subject": "صرف",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/IrshadUsSighaUrduSharhIlmUsSigha.pdf"
+    },
+    {
+      "id": "sania_dars_e_ilm_us_segha",
+      "title": "درس علم الصیغہ",
+      "author": "مولانا ممتاز احمد",
+      "subject": "صرف",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsEIlmusSigha/DARS_E_ILM_US_SIGHA.pdf"
+    },
+    {
+      "id": "sania_tozeehat_segha",
+      "title": "توضیحات (اردو شرح علم الصیغہ)",
+      "author": "مولانا توضیح الرحمن",
+      "subject": "صرف",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TozeehatUrduSharhIlmUsSigha.pdf"
+    },
+    {
+      "id": "sania_fusool_e_akbari_bushra",
+      "title": "فصول اکبری (مکتبۃ البشریٰ رنگین)",
+      "author": "الشیخ علی اکبر الحسینیؒ",
+      "subject": "صرف",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/FusoolEAkbariAlBushraColor.pdf"
+    },
+    {
+      "id": "sania_khasiyyat_e_abwab",
+      "title": "خاصیات ابواب (فصول اکبری)",
+      "author": "علامہ علی اکبر",
+      "subject": "صرف",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/BestUrduBooks1017/KHASIYYAT-E-ABWAB-FUSOOL-E-AKBARI.pdf"
+    },
+    {
+      "id": "sania_darsi_taqreer_khasiyat",
+      "title": "درسی تقریر خاصیات ابواب",
+      "author": "مولانا عبد السمیع",
+      "subject": "صرف",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/DARSI_TAQREER_KHASIYAAT_ABWAB.pdf"
+    },
+    {
+      "id": "sania_aasan_khasiyat_ul_abwab",
+      "title": "آسان خاصیات الأبواب",
+      "author": "مولانا آسان علی",
+      "subject": "صرف",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AasanKhasiatUlAbwab.pdf"
+    },
+    {
+      "id": "sania_hidayatun_nahw_bushra",
+      "title": "هداية النحو (مکتبۃ البشریٰ رنگین)",
+      "author": "الشيخ سراج الدين الأوشي",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/HidayaTunNahwAlBushraColor.pdf"
+    },
+    {
+      "id": "sania_ilhamiyah",
+      "title": "الإلهامية (شرح عربي هداية النحو)",
+      "author": "الشيخ إلهام الدين",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/ILHAMIYAH_ARABIC_SHARH_HIDAYATUN_NAHWA.pdf"
+    },
+    {
+      "id": "sania_maarif_un_nahw",
+      "title": "معارف النحو (شرح هداية النحو)",
+      "author": "مولانا عبد الحي أستوري",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/maulana-abdul-hai-astori/MAARIF_UN_NAHW_SHARH_HIDAYATU_NAHW.pdf"
+    },
+    {
+      "id": "sania_dars_e_hidayatun_nahw",
+      "title": "درس هداية النحو",
+      "author": "مولانا ممتاز احمد",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/Besturdubooks317/DARS-E-HIDAYA-TUN-NAHW.pdf"
+    },
+    {
+      "id": "sania_misbah_un_nahw",
+      "title": "مصباح النحو (اردو شرح هداية النحو)",
+      "author": "مولانا مصباح الحسن",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/MisbahUnNahwUrduSharhHidayatUnNahw.pdf"
+    },
+    {
+      "id": "sania_khair_un_nahw",
+      "title": "خیر النحو (اردو شرح هداية النحو)",
+      "author": "مولانا خیر محمد",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/KhaiUnNahwUrduSharhHidayatUnNahw.pdf"
+    },
+    {
+      "id": "sania_irshad_un_nahw",
+      "title": "إرشاد النحو (اردو شرح هداية النحو)",
+      "author": "مولانا ارشاد احمد",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/IrshadUnNahwUrduSharhHidayatUnNahw.pdf"
+    },
+    {
+      "id": "sania_kifayat_ul_nahw",
+      "title": "کفایة النحو (شرح هداية النحو)",
+      "author": "مولانا كفاية الله",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/KifayatUlNahw.pdf"
+    },
+    {
+      "id": "sania_saayat_un_nahw",
+      "title": "سعایة النحو (اردو شرح هداية النحو)",
+      "author": "مولانا سعایت علی",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/SaayatUnNahwUrduSharhHidayatUnNahw.pdf"
+    },
+    {
+      "id": "sania_riwayat_un_nahw",
+      "title": "روایة النحو (اردو شرح هداية النحو)",
+      "author": "مولانا روایت حسین",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/RiwayatUnNahwUrduSharhHidayatUnNahw.pdf"
+    },
+    {
+      "id": "sania_enayat_un_nahw",
+      "title": "عنایة النحو (اردو شرح هداية النحو)",
+      "author": "مولانا عنایت اللہ",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/EnayatUnNahwUrduSharhHidayatUnNahw.pdf"
+    },
+    {
+      "id": "sania_tayseer_un_nahw",
+      "title": "تیسیر النحو (اردو شرح هداية النحو)",
+      "author": "مولانا تيسير الحق",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TayseerUnNahwUrduSharhHidayatUnNahw.pdf"
+    },
+    {
+      "id": "sania_talkhees_un_nahw",
+      "title": "تلخیص النحو (شرح هداية النحو)",
+      "author": "مولانا تلخیص احمد",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TalkheesUnNahw.pdf"
+    },
+    {
+      "id": "sania_dirayat_un_nahw_majedia",
+      "title": "درایة النحو (مجیدیہ)",
+      "author": "مولانا عبد المجيد",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/DirayaTulNahwMajedia.pdf"
+    },
+    {
+      "id": "sania_siraj_un_nahw",
+      "title": "سراج النحو (اردو شرح هداية النحو)",
+      "author": "مولانا سراج الدين",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/SirajUnNahwUrduSharhHidayatUnNahw.pdf"
+    },
+    {
+      "id": "sania_zia_un_nahw",
+      "title": "ضیاء النحو (اردو شرح هداية النحو)",
+      "author": "مولانا ضیاء الحق",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/ZiaUnNahwUrduSharhHidayatUnNahw.pdf"
+    },
+    {
+      "id": "sania_nahw_wazeh_bushra",
+      "title": "النحو الواضح (مکتبۃ البشریٰ رنگین)",
+      "author": "علي الجارم ومصطفى أمين",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlNahwUlWazehAlBushraColor.pdf"
+    },
+    {
+      "id": "sania_nahw_wazeh_urdu",
+      "title": "النحو الواضح (اردو ترجمہ)",
+      "author": "علي الجارم ومصطفى أمين",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "ترجمہ",
+      "pdfUrl": "https://archive.org/download/AnNahwUlWazihUrdu/Al-Nahw-ul-Wazih-Urdu.pdf"
+    },
+    {
+      "id": "sania_sharf_ul_wazih_2",
+      "title": "الشرف الواضح (جلد دوم)",
+      "author": "مولانا شرف الدين",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/BestUrduBooks218/AL_SHARF_UL_WAZIH_VOL_02.pdf"
+    },
+    {
+      "id": "sania_al_minhaj_bushra",
+      "title": "المنهاج (مکتبۃ البشریٰ رنگین)",
+      "author": "الشيخ عبد الرحمن الندوي",
+      "subject": "انشاء",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlMinhaajAlBushraColor.pdf"
+    },
+    {
+      "id": "sania_fawaid_e_makkiyah",
+      "title": "فوائد مکیہ (مکتبۃ البشریٰ رنگین)",
+      "author": "القاري عبد الرحمن المكي",
+      "subject": "تجوید",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/FawaidEMakkiyahAlBushraColor.pdf"
+    },
+    {
+      "id": "sania_qiraat_rashidah_2",
+      "title": "القراءات الراشدة (جلد دوم)",
+      "author": "أبو الحسن علي الندوي",
+      "subject": "عربی ادب",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/AL%20QIRAAT%20UL%20RASHEDAH%20VOL%202.pdf"
+    },
+    {
+      "id": "sania_sharh_qiraat_rashidah",
+      "title": "شرح القراءات الراشدة (اردو)",
+      "author": "مولانا عبد الرشيد",
+      "subject": "عربی ادب",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/SharhAlQiraatUrRashedaUrdu.pdf"
+    },
+    {
+      "id": "sania_qiraat_ul_kashefa",
+      "title": "القراءات الكاشفة (اردو شرح القراءات الراشدة)",
+      "author": "مولانا كاشف علي",
+      "subject": "عربی ادب",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlQiraatUlKashefaUrduSharhAlQiraatUrRasheda.pdf"
+    },
+    {
+      "id": "sania_qiraat_rashidah_bushra",
+      "title": "القراءات الراشدة (مکتبۃ البشریٰ)",
+      "author": "أبو الحسن علي الندوي",
+      "subject": "عربی ادب",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AL_QIRAAT_AL_RASHIDAH.pdf"
+    },
+    {
+      "id": "sania_eisa_ghoji_bushra",
+      "title": "عیسیٰ غوجی (مکتبۃ البشریٰ رنگین)",
+      "author": "أثير الدين الأبهري",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/EsaGhojiAlBushraColor.pdf"
+    },
+    {
+      "id": "sania_hashia_shaykh_alish",
+      "title": "حاشية الشيخ محمد عليش على إيساغوجي",
+      "author": "الشيخ محمد عليش",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/BestUrduBooks15/Hashia-Shaykh-Muhammad-Alish-Eisa-Ghoji.pdf"
+    },
+    {
+      "id": "sania_mughni_al_tullab",
+      "title": "مغني الطلاب (شرح عربي إيساغوجي)",
+      "author": "الشيخ أبهري / تحشية العلماء",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/BestUrduBooks15/Mughni-Al-Tullab-Arabic-Sharh-Eisaghoji.pdf"
+    },
+    {
+      "id": "sania_sharh_eisa_ghoji",
+      "title": "شرح عیسیٰ غوجی",
+      "author": "علامہ ابہری",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/BestUrduBooks15/Sharh-Eisa-Ghoji.pdf"
+    },
+    {
+      "id": "sania_tashrihat_sawati",
+      "title": "تشریحات سواتی (شرح عیسیٰ غوجی)",
+      "author": "مولانا سواتی",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/TASHRIHAT_SAWATI_SHARH_EISAGHOJI.pdf"
+    },
+    {
+      "id": "sania_al_sharifi_qadeemi",
+      "title": "الشريفي (قدیمی)",
+      "author": "علامة الشريف الجرجاني",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlSharifiQademi.pdf"
+    },
+    {
+      "id": "sania_siraj_ul_mantiq",
+      "title": "سراج المنطق (اردو شرح عیسیٰ غوجی)",
+      "author": "مولانا سراج الدين",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/SirajUlMantiqUrduSharhEisaGhoji.pdf"
+    },
+    {
+      "id": "sania_dars_e_eisa_ghoji",
+      "title": "درس عیسیٰ غوجی",
+      "author": "مولانا ممتاز احمد",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/DarsEEisaGhojiUrduSharhEisaGhoji.pdf"
+    },
+    {
+      "id": "sania_qala_aqoolo_rashidia",
+      "title": "قال أقول رشیدیہ (شرح عیسیٰ غوجی)",
+      "author": "علامہ رشيد احمد",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/MantiqOFalsafaBooks/QALA%20AQOLO%20RASHEDIA%20-%20www.besturdubooks.wordpress.com.pdf"
+    },
+    {
+      "id": "sania_al_mirqat_taqwiyat",
+      "title": "المرقاة مع تقوية المرقاة",
+      "author": "علامة فضل إمام خيرآبادي",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AL-MIRQAT-TAQWIYAT-UL-MIRQAT.pdf"
+    },
+    {
+      "id": "sania_al_mirqat_bushra",
+      "title": "المرقاة (مکتبۃ البشریٰ رنگین)",
+      "author": "علامة فضل إمام خيرآبادي",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/AlMirqatAlBushraColor.pdf"
+    },
+    {
+      "id": "sania_tozihaat_mirqat",
+      "title": "توضیحات (اردو شرح المرقاة)",
+      "author": "مولانا توضيح الرحمن",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TozihaatUrduSharhMirqat.pdf"
+    },
+    {
+      "id": "sania_al_tashrihat_mirqat",
+      "title": "التشریحات (اردو شرح المرقاة)",
+      "author": "مولانا تشريح الحق",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AlTashrihatUrduSharhMirqat.pdf"
+    },
+    {
+      "id": "sania_tohfat_ul_manzoor",
+      "title": "تحفة المنظور (اردو شرح المرقاة)",
+      "author": "مولانا منظور احمد",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TohfatUlManzoorUrduSharhMirqat.pdf"
+    },
+    {
+      "id": "sania_shazarat_mirqat",
+      "title": "شذرات (شرح اردو المرقاة)",
+      "author": "مولانا شذرات علي",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/SHAZARAT_SHARH_URDU_MIRQAT.pdf"
+    },
+    {
+      "id": "sania_dars_e_mirqat",
+      "title": "درس المرقاة (اردو)",
+      "author": "مولانا ممتاز احمد",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/DARS_E_MIRQAT_URDU.pdf"
+    },
+    {
+      "id": "sania_explanatory_notes_mirqat",
+      "title": "وضاحتی نوٹس علی المرقات",
+      "author": "مولانا عبد اللہ",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شروح وحواشی",
+      "pdfUrl": "https://archive.org/download/abdullahmbooks/EXPLANATORY_NOTES_ON_AL_MIRQAT.pdf"
+    },
+    {
+      "id": "sania_taiseer_ul_mantiq_bushra",
+      "title": "تيسير المنطق (مکتبۃ البشریٰ رنگین)",
+      "author": "مولانا عبد الله الختاكي",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/TaiseerUlMantiqAlBushraColor.pdf"
+    },
+    {
+      "id": "sania_asaan_tayseer_ul_mantiq_1",
+      "title": "آسان تیسیر المنطق (طبع اول)",
+      "author": "مولانا آسان علي",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiMutafarriq/ASAAN_TAYSIR_UL_MANTIQ.pdf"
+    },
+    {
+      "id": "sania_asaan_tayseer_ul_mantiq_2",
+      "title": "آسان تیسیر المنطق",
+      "author": "مولانا آسان علي",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/asantayseerulmantiq/ASAN_TAYSEER_UL_MANTIQ.pdf"
+    },
+    {
+      "id": "sania_tanveer_ul_mantiq",
+      "title": "تنویر المنطق (تسهيل تيسير المنطق)",
+      "author": "مولانا تنوير الحق",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizami_DarjaAula_1stYear/TANVEER_UL_MANTIQ_TASHEEL_TAYSEER_UL_MANTIQ.pdf"
+    },
+    {
+      "id": "sania_tasheel_ul_mantiq_1",
+      "title": "تسهيل المنطق (شرح تيسير المنطق)",
+      "author": "مولانا تسهيل الدين",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TASHEEL-UL-MANTIQ-SHARH-TAISEER-UL-MANTIQ.pdf"
+    },
+    {
+      "id": "sania_asas_ul_mantiq_2",
+      "title": "أساس المنطق (اردو شرح تيسير المنطق جلد 2)",
+      "author": "مولانا اساس الدين",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AsasUlMantiqUrduSharhTaiseerUlMantiqVol2.pdf"
+    },
+    {
+      "id": "sania_tasheel_ul_mantiq_2",
+      "title": "تسهيل المنطق (ایڈیشن دوم)",
+      "author": "مولانا تسهيل الدين",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TasheelUlMantiq.pdf"
+    },
+    {
+      "id": "sania_tashil_e_taysir_ul_mantiq",
+      "title": "تسهيل تيسير المنطق",
+      "author": "مولانا محمد ایاز",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/m-ayaz-muhammad/TASHIL_E_TAYSIR_UL_MANTIQ.pdf"
+    },
+    {
+      "id": "sania_muallim_ul_insha_1",
+      "title": "معلم الإنشاء (جلد اول)",
+      "author": "الشيخ عبد الماجد الندوي",
+      "subject": "انشاء",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/MuallimUlInshaVol1.pdf"
+    },
+    {
+      "id": "sania_ashraf_ul_insha",
+      "title": "أشرف الإنشاء (شرح معلم الإنشاء)",
+      "author": "مولانا اشرف علی",
+      "subject": "انشاء",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/AshrafUlInshaSharhMoallimUlInsha.pdf"
+    },
+    {
+      "id": "sania_tozihaat_ul_insha",
+      "title": "توضیحات الإنشاء (شرح معلم الإنشاء)",
+      "author": "مولانا توضيح الرحمن",
+      "subject": "انشاء",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TozihaatUlInshaSharhMoallimUlInsha.pdf"
+    },
+    {
+      "id": "sania_dalail_ul_insha",
+      "title": "دلائل الإنشاء (شرح معلم الإنشاء)",
+      "author": "مولانا دلائل الحق",
+      "subject": "انشاء",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/DalailUlInshaSharhMoallimUlInsha.pdf"
+    },
+    {
+      "id": "sania_tasheel_ul_insha",
+      "title": "تسهيل الإنشاء (شرح معلم الإنشاء)",
+      "author": "مولانا تسهيل الدين",
+      "subject": "انشاء",
+      "darja": "درجہ ثانیہ",
+      "type": "شرح",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TasheelUlInshaSharhMoallimUlInsha.pdf"
+    },
+    {
+      "id": "sania_hal_shuda_parcha_jaat",
+      "title": "حل شدہ پرچہ جات درجہ ثانیہ (حل شدہ سالانہ پرچہ جات)",
+      "author": "وفاق المدارس العربیہ",
+      "subject": "عمومی",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/HalShudaParchaJaatDarjaSania.pdf"
+    },
+    {
+      "id": "sania_esa_ghoji_mantiq",
+      "title": "ایساغوجی (منطق)",
+      "author": "علامہ اثیر الدین الابہریؒ",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://www.talibeilm.net/uploads/4/7/1/3/4713847/esa-ghoji.pdf"
+    },
+    {
+      "id": "sania_diraya_tul_nahw",
+      "title": "درایۃ النحو (شرح ہدایۃ النحو)",
+      "author": "مولانا سید نذیر احمدؒ",
+      "subject": "نحو",
+      "darja": "درجہ ثانیہ",
+      "type": "اردو شرح",
+      "pdfUrl": "https://www.talibeilm.net/uploads/4/7/1/3/4713847/diraya_tul_nahw.pdf"
+    },
+    {
+      "id": "sania_zad_ul_qudoori_sharh",
+      "title": "زاد القدوری شرح مختصر القدوری",
+      "author": "مولانا مفتی زاد حسنؒ",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "اردو شرح",
+      "pdfUrl": "https://archive.org/download/20231203_20231203_1822/%D9%85%D8%AE%D8%AA%D8%B5%D8%B1%20%D8%A7%D9%84%D9%82%D8%AF%D9%88%D8%B1%DB%8C%20%D8%B4%D8%B1%D8%AD%20%D8%B2%D8%A7%D8%AF%20%D8%A7%D9%84%D9%82%D8%AF%D9%88%D8%B1%DB%8C.pdf"
+    },
+    {
+      "id": "sania_ashraf_ul_insha_sharh",
+      "title": "اشرف الانشاء شرح معلم الانشاء",
+      "author": "ابو حمزہ محمد شریفؒ",
+      "subject": "عربی ادب",
+      "darja": "درجہ ثانیہ",
+      "type": "اردو شرح",
+      "pdfUrl": "https://archive.org/download/20230304_20230304_0242/%D8%A7%D8%B4%D8%B1%D9%81%20%D8%A7%D9%84%D8%A7%D9%86%D8%B4%D8%A7%D8%A1%20%D8%B4%D8%B1%D8%AD%20%D9%85%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A7%D9%86%D8%B4%D8%A7%D8%A1%20%D8%A7%D8%A8%D9%88%20%D8%AD%D9%85%D8%B2%DB%81%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B4%D8%B1%DB%8C%D9%81.pdf"
+    },
+    {
+      "id": "sania_anbar_ul_yeem_tafseer_amma",
+      "title": "عنبر الیم فی تفسیر پارہ عم",
+      "author": "مولانا عبد الرحمن جامیؒ",
+      "subject": "تفسیر",
+      "darja": "درجہ ثانیہ",
+      "type": "تفسیر",
+      "pdfUrl": "https://archive.org/download/20250924_20250924_1348/%D8%B9%D9%86%D8%A8%D8%B1%20%D8%A7%D9%84%DB%8C%D9%85%20%D9%81%DB%8C%20%D8%AA%D9%81%D8%B3%DB%8C%D8%B1%20%D9%BE%D8%A7%D8%B1%DB%81%20%D8%B9%D9%85%20%DB%94%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%B0%D9%86%20%D8%AC%D8%A7%D9%85%DB%8C%DB%94%20%D8%AD%D9%82.pdf"
+    },
+    {
+      "id": "sania_asaan_mantiq_sharh_taisir",
+      "title": "آسان منطق شرح تیسیر منطق",
+      "author": "مولانا محمد فاروقؒ",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "اردو شرح",
+      "pdfUrl": "https://archive.org/download/amst0/ASAAN_MANTIQ_SHARH_TAISIR_E_MANTIQ.pdf"
+    },
+    {
+      "id": "sania_tabyin_ul_mantiq_sharh",
+      "title": "تبیین المنطق شرح تیسیر المنطق",
+      "author": "مولانا عبد الرحیم مظاہریؒ",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "اردو شرح",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/TABYIN_UL_MANTIQ_SHARH_TAYSIR_UL_MANTIQ.pdf"
+    },
+    {
+      "id": "sania_tasheel_ul_adab",
+      "title": "تسہیل الادب",
+      "author": "مولانا مشتاق احمد چرتھاولیؒ",
+      "subject": "عربی ادب",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSaniah2ndYear1/TASHEEL_UL_ADAB.pdf"
+    },
+    {
+      "id": "sania_musahhil_ul_adab_sharh",
+      "title": "مسہل الادب شرح تسہیل الادب",
+      "author": "مولانا مفتی عبد الرحمنؒ",
+      "subject": "عربی ادب",
+      "darja": "درجہ ثانیہ",
+      "type": "اردو شرح",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/MUSAHHIL_UL_ADAB_SHARH_TASHEEL_UL_ADAB.pdf"
+    },
+    {
+      "id": "sania_arabi_ka_muallim_vol4_bushra",
+      "title": "عربی کا معلم (جلد چہارم - مکتبۃ البشریٰ)",
+      "author": "مولانا عبد الستار خانؒ",
+      "subject": "عربی ادب",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/Httpsarchive.orgdetailsDarsENizamiDarjaSaniah2ndYear2/ArabiKaMuallimVol4AlBushraColor.pdf"
+    },
+    {
+      "id": "sania_kaleed_arabi_ka_muallim_vol4",
+      "title": "کلید عربی کا معلم (جلد چہارم)",
+      "author": "مولانا عبد الستار خانؒ",
+      "subject": "عربی ادب",
+      "darja": "درجہ ثانیہ",
+      "type": "کلید و حل",
+      "pdfUrl": "https://archive.org/download/KaleedArabiKaMuallim/Kaleed_Arabi_Ka_Muallim_4.pdf"
+    },
+    {
+      "id": "saniya_quduri_al_mutasar_bushra",
+      "title": "مختصر القدوری مع المعتصر الضروری (مکتبۃ البشریٰ)",
+      "author": "امام ابو الحسن احمد بن محمد القدوریؒ / الشیخ سلیمان الہندیؒ",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب مع حاشیہ",
+      "pdfUrl": "https://dn720800.ca.archive.org/0/items/20260215_20260215_0640/مختصر القدوری، امام ابی الحسن احمد البغدادی القدوری، المعتصر الضروری، سلیمان ہندی، ؟عربی، مکتبہ البشریٰ ۔ حق .pdf"
+    },
+    {
+      "id": "saniya_quduri_sharh_baghdadi_qadeem",
+      "title": "مختصر القدوری شرح بغدادی (قدیم ایڈیشن)",
+      "author": "امام ابو الحسن احمد بن محمد القدوریؒ",
+      "subject": "فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب مع شرح",
+      "pdfUrl": "https://archive.org/download/20231203_20231203_1822/مختصر القدوری شرح بغدادی قدیم ایڈیشن.pdf"
+    },
+    {
+      "id": "saniya_qiraat_ul_rashida_vol1_talib",
+      "title": "القراءۃ الراشدۃ (جلد اول)",
+      "author": "حضرت مولانا سید ابو الحسن علی حسنی ندویؒ",
+      "subject": "عربی ادب",
+      "darja": "درجہ ثانیہ",
+      "type": "درسی کتاب",
+      "pdfUrl": "https://www.talibeilm.net/uploads/4/7/1/3/4713847/al-qiraat_ul_rashedah_vol-1.pdf"
+    },
+    {
+      "id": "saniya_qiraat_ul_rashida_aizah_jadid",
+      "title": "القراءۃ الراشدۃ مع ایضاح القراءۃ (جدید ایڈیشن)",
+      "author": "مولانا سید ابو الحسن علی ندویؒ / مولانا نسیم احمد اعظمیؒ",
+      "subject": "عربی ادب",
+      "darja": "درجہ ثانیہ",
+      "type": "اردو شرح و حاشیہ",
+      "pdfUrl": "https://archive.org/download/20230304_20230304_0242/القراءة الراشدة مع ایضاح القراءة جدید ایڈیشن.pdf"
+    },
+    {
+      "id": "saniya_al_mirqat_talib",
+      "title": "المرقاۃ فی المنطق",
+      "author": "علامہ فضل امام خیر آبادیؒ",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://www.talibeilm.net/uploads/4/7/1/3/4713847/al_mirqat.pdf"
+    },
+    {
+      "id": "saniya_aynat_ul_ilm_tafseer",
+      "title": "عینۃ العلم فی تفسیر القرآن بالقرآن",
+      "author": "علماء جامعہ حقانیہ",
+      "subject": "تفسیر",
+      "darja": "درجہ ثانیہ",
+      "type": "درسی تفسیر",
+      "pdfUrl": "https://archive.org/download/20250924_20250924_1348/عینة العلم فی تفسیر القرآن بالقرآن جامعہ حق.pdf"
+    },
+    {
+      "id": "saniya_qanoon_ul_adab_azmi",
+      "title": "قانون الادب",
+      "author": "مولانا عتیق الرحمن اعظمیؒ",
+      "subject": "عربی ادب",
+      "darja": "درجہ ثانیہ",
+      "type": "قواعد و انشاء",
+      "pdfUrl": "https://archive.org/download/20260215_20260215_1437/کانون الادب عتیق الرحمن اعظمی.pdf"
+    },
+    {
+      "id": "saniya_usool_ash_shashi_ed1",
+      "title": "اصول الشاشی (نسخہ اول)",
+      "author": "امام نظام الدین اسحاق بن ابراہیم الشاشیؒ",
+      "subject": "اصول فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب",
+      "pdfUrl": "https://archive.org/download/20230212_20230212_0336/اصول الشاشی.pdf"
+    },
+    {
+      "id": "saniya_usool_ash_shashi_akram_nadwi",
+      "title": "اصول الشاشی مع تحقیق و تعلیق",
+      "author": "امام نظام الدین الشاشیؒ / تحقیق ڈاکٹر محمد اکرم ندوی",
+      "subject": "اصول فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "اصل کتاب مع تحقیق",
+      "pdfUrl": "https://archive.org/download/Usul_Ash-Shashi_Wa_Shuroohatuha/اصول الشاشی بتحقیق محمد اکرم ندوی.pdf"
+    },
+    {
+      "id": "saniya_asan_usool_fiqh_asadi",
+      "title": "آسان اصول فقہ (الاسعدی)",
+      "author": "حضرت مولانا اسعد اللہ اعظمیؒ",
+      "subject": "اصول فقہ",
+      "darja": "درجہ ثانیہ",
+      "type": "آسان اردو شرح",
+      "pdfUrl": "https://archive.org/download/20251007_20251007_1036/آسان اصول فقہ الاسعدی.pdf"
+    },
+    {
+      "id": "saniya_tasheel_ul_mantiq_images",
+      "title": "تسہیل المنطق",
+      "author": "حضرت مولانا عبد اللہ صاحب مدظلہ",
+      "subject": "منطق",
+      "darja": "درجہ ثانیہ",
+      "type": "آسان اردو شرح",
+      "pdfUrl": "https://archive.org/download/images_201602/images.pdf"
+    }
+  ]
+}

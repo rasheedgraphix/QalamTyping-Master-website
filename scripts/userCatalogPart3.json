@@ -1,0 +1,914 @@
+[
+  {
+    "darjaName": "درجہ ثالثہ (سال سوم / Third Year)",
+    "darjaKey": "درجہ ثالثہ",
+    "books": [
+      {
+        "id": "salisa_riaz_us_saliheen_main",
+        "title": "رياض الصالحين (اصل کتاب)",
+        "author": "الامام يحيى بن شرف النووي",
+        "subject": "حدیث",
+        "darja": "درجہ ثالثہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/RiazusSalihin/Riazus%20Salihin%20%28AlBushra%29%20By%20Imam%20Navavi.pdf"
+      },
+      {
+        "id": "salisa_riaz_us_saliheen_urdu_tarjama",
+        "title": "رياض الصالحين (اردو ترجمہ)",
+        "author": "الامام النووي",
+        "subject": "حدیث",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/RiazusSalihinUrdu/Riazus%20Salihin%20By%20Imam%20Navavi%20Urdu.pdf"
+      },
+      {
+        "id": "salisa_riaz_us_saliheen_urdu_darsi",
+        "title": "رياض الصالحين (اردو درسی شرح)",
+        "author": "علماء ديوبند",
+        "subject": "حدیث",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/RiazUsSaleheenUrdu2.pdf"
+      },
+      {
+        "id": "salisa_khair_ul_saliheen_vol_2",
+        "title": "خير الصالحين (جلد دوم)",
+        "author": "مولانا خير محمد",
+        "subject": "حدیث",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KHAIR_UL_SALIHEEN_VOL_2.pdf"
+      },
+      {
+        "id": "salisa_tareeq_ul_salikeen_vol_2",
+        "title": "طريق سالكين (جلد دوم)",
+        "author": "مولانا طريق الرحمن",
+        "subject": "حدیث",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TAREEQ_UL_SALIKEEN_VOL_2.pdf"
+      },
+      {
+        "id": "salisa_nuzhat_ul_muttaqeen_vol_2",
+        "title": "نزهة المتقين (جلد دوم)",
+        "author": "د. مصطفى الخن وآخرون",
+        "subject": "حدیث",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/NUZHA_TUL_MUTTAQEEN_VOL_2.pdf"
+      },
+      {
+        "id": "salisa_dalil_ul_faliheen_vol_2",
+        "title": "دليل الفالفين (جلد دوم)",
+        "author": "محمد بن علان الصديقي",
+        "subject": "حدیث",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DalilUlFaliheen/Dalil-ul-Faliheen-Vol-2.pdf"
+      },
+      {
+        "id": "salisa_raozat_us_saleheen",
+        "title": "روضة الصالحين (اردو شرح رياض الصالحين)",
+        "author": "مولانا روضة الحق",
+        "subject": "حدیث",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/RaozatUsSaleheenUrduSharhRiazUsSaleheen2.pdf"
+      },
+      {
+        "id": "salisa_kanz_ud_daqaiq_vol_2_bushra",
+        "title": "كنز الدقائق (جلد دوم - مکتبۃ البشریٰ رنگین)",
+        "author": "الامام عبد الله بن احمد بن محمود النسفي",
+        "subject": "فقہ",
+        "darja": "درجہ ثالثہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KanzUlDaqaiqVol2AlBushraColor.pdf"
+      },
+      {
+        "id": "salisa_taysir_ul_haqaiq_arabic",
+        "title": "تيسير الحقائق (شرح عربي كنز الدقائق)",
+        "author": "الشيخ تيسير الحق",
+        "subject": "فقہ",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TAYSIR_UL_HAQAIQ_ARABIC_SHARH_KANZ.pdf"
+      },
+      {
+        "id": "salisa_al_nahr_ul_faiq_vol_2",
+        "title": "النهر الفائق شرح كنز الدقائق (جلد دوم)",
+        "author": "عمر بن إبراهيم ابن نجيم الحنفي",
+        "subject": "فقہ",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/AlNahrUlFaiq/Al-Nahr-ul-Faiq-Vol-02.pdf"
+      },
+      {
+        "id": "salisa_madin_ul_haqaiq",
+        "title": "معدن الحقائق (اردو شرح كنز الدقائق)",
+        "author": "مولانا معدن الحسن",
+        "subject": "فقہ",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/MadinUlHaqaiqUrduSharhKanzUdDaqaiq2.pdf"
+      },
+      {
+        "id": "salisa_tasheel_ul_haqaiq",
+        "title": "تسهيل الحقائق (اردو شرح كنز الدقائق)",
+        "author": "مولانا تسهيل احمد",
+        "subject": "فقہ",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TasheelUlHaqaiqUrduSharhKanzUlDaqaiq.pdf"
+      },
+      {
+        "id": "salisa_nawader_ul_haqaiq",
+        "title": "نوادر الحقائق (اردو شرح كنز الدقائق)",
+        "author": "مولانا نوادر علي",
+        "subject": "فقہ",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/NawaderUlHaqaiqUrduSharhKanzUdDaqaiq.pdf"
+      },
+      {
+        "id": "salisa_ahsan_ul_masail",
+        "title": "أحسن المسائل (اردو ترجمہ كنز الدقائق)",
+        "author": "مولانا أحسن علي",
+        "subject": "فقہ",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AhsanUlMasailUrduTarjamaKanzUdDaqaiq.pdf"
+      },
+      {
+        "id": "salisa_siraj_ul_haqaiq_vol_2",
+        "title": "سراج الحقائق (شرح عربي كنز الدقائق - جلد دوم)",
+        "author": "الشيخ سراج الدين",
+        "subject": "فقہ",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/SIRAJ_UL_HAQAIQ_SHARH_KANZ_VOL_02.pdf"
+      },
+      {
+        "id": "salisa_kafiah_bushra_color",
+        "title": "الكافية (مکتبۃ البشریٰ رنگین)",
+        "author": "ابن حاجب",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KafiahAlBushraColor.pdf"
+      },
+      {
+        "id": "salisa_dars_e_kafia",
+        "title": "درس كافيه (اردو شرح كافيه)",
+        "author": "مولانا درس علي",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/DARS-E-KAFIA-URDU-SHARH.pdf"
+      },
+      {
+        "id": "salisa_hadiyah_sharh_kafia",
+        "title": "هديہ (اردو شرح كافيه)",
+        "author": "مولانا هداية الله",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/HadiaUrduSharhKafia.pdf"
+      },
+      {
+        "id": "salisa_eizah_ul_matalib",
+        "title": "إيضاح المطالب (اردو شرح كافيه)",
+        "author": "مولانا إيضاح الحق",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/EizahUlMatalibUrduSharhKafia.pdf"
+      },
+      {
+        "id": "salisa_dars_e_kafia_vol_2",
+        "title": "درس كافيه (جلد دوم)",
+        "author": "مولانا درس علي",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/DarsEKafiaUrduSharhKafiaVol2.pdf"
+      },
+      {
+        "id": "salisa_taqreer_e_kafia",
+        "title": "تقرير كافيه (اردو شرح كافيه)",
+        "author": "علماء ديوبند",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TaqreerEKafiaUrduSharhKafia2.pdf"
+      },
+      {
+        "id": "salisa_al_duroos_ul_wazeha",
+        "title": "الدروس الواضحة (اردو شرح كافيه)",
+        "author": "مولانا واضح الحسن",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AlDuroosUlWazehaUrduSharhKafia.pdf"
+      },
+      {
+        "id": "salisa_al_duroos_ul_wafia",
+        "title": "الدروس الوافية (اردو شرح كافيه)",
+        "author": "مولانا وافي الرحمن",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AlDuroosUlWafiaUrduSharhKafia.pdf"
+      },
+      {
+        "id": "salisa_kashf_ul_matalib",
+        "title": "كشف المطالب (اردو شرح كافيه)",
+        "author": "مولانا كشف الدين",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KashfUlMatalibUrduSharhKafia.pdf"
+      },
+      {
+        "id": "salisa_tahzeeb_ul_kafia",
+        "title": "تهذيب الكافية (اردو شرح كافيه)",
+        "author": "مولانا تهذيب الحسن",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TahzeebUlKafiaUrduSharhKafia.pdf"
+      },
+      {
+        "id": "salisa_kashifa_sharh_kafia",
+        "title": "كاشفة (اردو شرح كافيه)",
+        "author": "مولانا كاشف علي",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/KashifaUrduSharhKafia.pdf"
+      },
+      {
+        "id": "salisa_waziha_vol_2",
+        "title": "واضحة (اردو شرح كافيه - جلد دوم)",
+        "author": "مولانا واضح الدين",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/WAZIHA_URDU_SHARH_KAFIA_VOL_02.pdf"
+      },
+      {
+        "id": "salisa_be_khidmat_il_kafiyah",
+        "title": "بخدمة الكافية (مکتبہ راشدیہ)",
+        "author": "علامة راشد الحنفي",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/BeKhadimaTilKafiaRashedia.pdf"
+      },
+      {
+        "id": "salisa_ghayat_ul_tahqeeq_rashedia",
+        "title": "غاية التحقيق (مکتبہ راشدیہ)",
+        "author": "علامة راشد الحنفي",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/GhayatUlTahqeqRashedia.pdf"
+      },
+      {
+        "id": "salisa_tahreer_e_sanbat",
+        "title": "تحرير سنبط (مکتبہ راشدیہ)",
+        "author": "علامة سنبط الحنفي",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TahreerESanbatRashedia.pdf"
+      },
+      {
+        "id": "salisa_wafia_sharh_kafia",
+        "title": "واقية شرح كافية",
+        "author": "علامة وافي الحنفي",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/darsenizamidarjasalsa3rdyear2/WAFIA_SHARH_KAFIA.pdf"
+      },
+      {
+        "id": "salisa_sharh_tahzeeb_bushra",
+        "title": "شرح التهذيب (مکتبۃ البشریٰ رنگین)",
+        "author": "علامة سعد الدين التفتازاني",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/SharhTahzeebAlBushraColor.pdf"
+      },
+      {
+        "id": "salisa_tahzeeb_ul_mantiq_matn",
+        "title": "تهذيب المنطق (متن)",
+        "author": "علامة سعد الدين التفتازاني",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/KHAIRULWUSOOLILALHASILWALMAHSOOL/TAHZEEB_UL_MANTIQ.pdf"
+      },
+      {
+        "id": "salisa_sharh_e_tahzeeb_dabhel",
+        "title": "شرح التهذيب (مکتبہ ڈابھیل)",
+        "author": "علماء دابھيل",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/SHARH-E-TAHZEEB-DABHEL.pdf"
+      },
+      {
+        "id": "salisa_maarif_ul_tahzeeb",
+        "title": "معارف التهذيب (شرح شرح التهذيب)",
+        "author": "مولانا عارف علي",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/MAARIF_AL_TEZEEB_SHARH_SHARH_E_TAHZEEB.pdf"
+      },
+      {
+        "id": "salisa_al_tafheem_ul_baligh",
+        "title": "التفهيم البالبغ (شرح شرح التهذيب)",
+        "author": "مولانا تفهيم الدين",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AL_TAFHEEM_UL_BALIGH_SHARH_E_TAHZEEB.pdf"
+      },
+      {
+        "id": "salisa_miftah_ul_tahzeeb",
+        "title": "مفتاح التهذيب",
+        "author": "مولانا مفتاح الدين",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/MIFTAH_UL_TAHZEEB.pdf"
+      },
+      {
+        "id": "salisa_al_tasheel_ut_tarteeb",
+        "title": "التسهيل الترتيب (اردو شرح شرح التهذيب)",
+        "author": "مولانا تسهيل الحسن",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AlTasheelUtTarteebUrduSharhSharhUtTahzeeb.pdf"
+      },
+      {
+        "id": "salisa_anwaar_ut_tahzeeb",
+        "title": "أنوار التهذيب (اردو شرح شرح التهذيب)",
+        "author": "مولانا أنوار الحق",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AnwaarUtTahzeebUrduSharhSharhUtTahzeeb.pdf"
+      },
+      {
+        "id": "salisa_sharh_ul_labib",
+        "title": "شرح اللبيب (اردو شرح شرح التهذيب)",
+        "author": "مولانا لبيب الرحمن",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/SarhUlLabibUrduSharhSharhUtTahzeeb.pdf"
+      },
+      {
+        "id": "salisa_siraj_ut_tahzeeb",
+        "title": "سراج التهذيب (اردو شرح شرح التهذيب)",
+        "author": "مولانا سراج احمد",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/SirajUtTahzeebUrduSharhSharhUtTahzeeb.pdf"
+      },
+      {
+        "id": "salisa_al_taqreeb_meer_muhammad",
+        "title": "التقريب (میر محمد کتب خانہ)",
+        "author": "علامة التقريب",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AlTaqreebMeerMuhammad.pdf"
+      },
+      {
+        "id": "salisa_tohfat_ul_labib",
+        "title": "تحفة اللبيب (شرح شرح التهذيب)",
+        "author": "مولانا تحفة علي",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/darsenizamidarjasalsa3rdyear2/TOHFA_TUL_LABIB_SHARHA_SHARH_E_TAHZIB.pdf"
+      },
+      {
+        "id": "salisa_taqreeb_ul_tahzeeb",
+        "title": "تقريب التهذيب (شرح شرح التهذيب)",
+        "author": "مولانا تقريب الحسن",
+        "subject": "منطق",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TAQRIB_AL_TAHZIB_SHARH_SHARH_E_TAHZIB.pdf"
+      },
+      {
+        "id": "salisa_matan_aqeedah_tahawiyyah",
+        "title": "متن العقيدة الطحاوية (مکتبۃ البشریٰ رنگین)",
+        "author": "الإمام أبو جعفر الطحاوي",
+        "subject": "عقائد",
+        "darja": "درجہ ثالثہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarjaAlSadisa6thYear/MatanUlAqedaTitTahavi-AlBushraColo.pdf"
+      },
+      {
+        "id": "salisa_aqeedah_tahawiyyah_urdu",
+        "title": "العقيدة الطحاوية (اردو ترجمہ)",
+        "author": "الإمام الطحاوي",
+        "subject": "عقائد",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarjaAlSadisa6thYear/AlAqidaAlTahawiaUrdu.pdf"
+      },
+      {
+        "id": "salisa_nafhat_ul_arab_bushra",
+        "title": "نفحة العرب (مکتبۃ البشریٰ رنگین)",
+        "author": "مولانا محمد أعظم",
+        "subject": "عربی ادب",
+        "darja": "درجہ ثالثہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/NafhaTulArabAlBushraColor.pdf"
+      },
+      {
+        "id": "salisa_takmeel_ul_adab",
+        "title": "تكميل الأدب (اردو شرح نفحة العرب)",
+        "author": "مولانا تکمیل الحق",
+        "subject": "عربی ادب",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TakmeelUlAdabUrduSharhNafhaTulArab.pdf"
+      },
+      {
+        "id": "salisa_ashraf_ul_adab",
+        "title": "أشرف الأدب (اردو شرح نفحة العرب)",
+        "author": "مولانا اشرف علي",
+        "subject": "عربی ادب",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/AshrafUlAdabUrduSharhNafhaTulArab.pdf"
+      },
+      {
+        "id": "salisa_tohfat_ul_adab",
+        "title": "تحفة الأدب (اردو شرح نفحة العرب)",
+        "author": "مولانا تحفة الحسن",
+        "subject": "عربی ادب",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/TohfatUlAdabUrduSharhNafhaTulArab.pdf"
+      },
+      {
+        "id": "salisa_nafhat_ul_yaman",
+        "title": "نفحة اليمن (میر محمد کتب خانہ)",
+        "author": "الشيخ أحمد الأنصاري اليمني",
+        "subject": "عربی ادب",
+        "darja": "درجہ ثالثہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/NafhaTulYamanMeerMuhammad.pdf"
+      },
+      {
+        "id": "salisa_muallim_ul_insha_2",
+        "title": "معلم الإنشاء (جلد دوم)",
+        "author": "الشيخ عبد الماجد الندوي",
+        "subject": "انشاء",
+        "darja": "درجہ ثالثہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaSalsa3rdYear/MUALLIM_UL_INSHA_VOL_2.pdf"
+      },
+      {
+        "id": "salsa_kafia_darul_uloom_deoband",
+        "title": "الکافیۃ (نسخہ دار العلوم دیوبند)",
+        "author": "علامہ ابن حاجب جمال الدین عثمان بن عمر النحویؒ",
+        "subject": "نحو",
+        "darja": "درجہ ثالثہ",
+        "type": "اصل کتاب مع حاشیہ",
+        "pdfUrl": "https://archive.org/download/20260623_20260623_1100/کافیہ دار العلوم دیوبند.pdf"
+      },
+      {
+        "id": "salsa_muallim_ul_insha_vol2_1",
+        "title": "معلم الانشاء (جلد دوم - نسخہ ثانی)",
+        "author": "حضرت مولانا عبد الماجد ندویؒ",
+        "subject": "انشاء",
+        "darja": "درجہ ثالثہ",
+        "type": "مشقی مواد",
+        "pdfUrl": "https://archive.org/download/muallam-ul-insha-jild-02-1/Muallam-ul-Insha - Jild 02 (1).pdf"
+      }
+    ]
+  },
+  {
+    "darjaName": "درجہ رابعہ (سال چہارم / Fourth Year)",
+    "darjaKey": "درجہ رابعہ",
+    "books": [
+      {
+        "id": "rabia_sharh_wiqayah_awwalain",
+        "title": "شرح الوقاية (اولین)",
+        "author": "عبيد الله بن مسعود المحبوبي",
+        "subject": "فقہ",
+        "darja": "درجہ رابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/SHARH%20UL%20WIQAYAH%20AOWALAIN.pdf"
+      },
+      {
+        "id": "rabia_sharh_wiqayah_aakhirain",
+        "title": "شرح الوقاية (آخرین)",
+        "author": "عبيد الله بن مسعود المحبوبي",
+        "subject": "فقہ",
+        "darja": "درجہ رابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/SHARH%20UL%20WIQAYAH%20AAKHERAIN.pdf"
+      },
+      {
+        "id": "rabia_noor_al_anwar_1",
+        "title": "نور الانوار جلد اول",
+        "author": "ملا جيون رحمه الله",
+        "subject": "اصول فقہ",
+        "darja": "درجہ رابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/NoorUlAnwaarVol1AlBushraColor.pdf"
+      },
+      {
+        "id": "rabia_sharh_mulla_jami_bushra",
+        "title": "شرح جامی (مکتبۃ البشریٰ رنگین)",
+        "author": "علامة عبد الرحمن الجامي",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/SHARHJAMI/SHARH_MULLA_JAMI_AL_BUSHRA_COLOR_02.pdf"
+      },
+      {
+        "id": "rabia_sharh_jami_uloom_islamia",
+        "title": "شرح جامی (علوم اسلامیہ)",
+        "author": "علامة عبد الرحمن الجامي",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/SHARHJAMI/SHARH-JAMI-ULOOM-E-ISLAMIA.pdf"
+      },
+      {
+        "id": "rabia_tohfa_e_jami",
+        "title": "تحفة جامی",
+        "author": "علماء ديوبند",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TOHFA_E_JAMI.pdf"
+      },
+      {
+        "id": "rabia_al_tasheel_ul_sami_1",
+        "title": "التسهيل السامي (جلد اول)",
+        "author": "مولانا تسهيل الحسن",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/al-tasheel/AL_TASHEEL_UL_SAMI_VOL_01.pdf"
+      },
+      {
+        "id": "rabia_darsi_taqreer_sharh_jami_1",
+        "title": "درسی تقریر شرح جامی",
+        "author": "علماء ديوبند",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/DarsiTaqreerVol1UrduSharhSharhUlJami.pdf"
+      },
+      {
+        "id": "rabia_al_fahm_un_nami",
+        "title": "الفہم النامی (اردو شرح شرح جامی)",
+        "author": "مولانا فهم الدين",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/AlFahmUnNamiUrduSharhSharhUlJami.pdf"
+      },
+      {
+        "id": "rabia_al_miftah_us_sami",
+        "title": "المفتاح السامی (اردو شرح شرح جامی)",
+        "author": "مولانا مفتاح الحق",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/AlMiftahUsSamiUrduSharhSharhUlJami.pdf"
+      },
+      {
+        "id": "rabia_khulasat_ul_jami",
+        "title": "خلاصة الجامی (اردو شرح شرح جامی)",
+        "author": "مولانا خلاصة الدين",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/KhulasatUlJamiUrduSharhSharhUlJami.pdf"
+      },
+      {
+        "id": "rabia_misbah_ul_maani",
+        "title": "مصباح المعانی (اردو شرح شرح جامی)",
+        "author": "مولانا مصباح الحسن",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/MisbahUlMaaniUrduSharhSharhUlJami.pdf"
+      },
+      {
+        "id": "rabia_lataif_ul_maani",
+        "title": "لطائف المعانی (اردو شرح شرح جامی)",
+        "author": "مولانا لطيف الرحمن",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/LataifUlMaaniUrduSharhSharhUlJami.pdf"
+      },
+      {
+        "id": "rabia_gharaz_e_jami_1",
+        "title": "غرض جامی (جلد اول)",
+        "author": "مولانا محمد يعقوب",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/GharazEJamiFiSharhUlJamiUrduVol1.pdf"
+      },
+      {
+        "id": "rabia_gharaz_e_jami_2",
+        "title": "غرض جامی (جلد دوم)",
+        "author": "مولانا محمد يعقوب",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/GharazEJamiFiSharhUlJamiUrduVol2.pdf"
+      },
+      {
+        "id": "rabia_bughyat_ul_kamil",
+        "title": "بغية الكامل (عربی شرح شرح جامی)",
+        "author": "علماء ديوبند",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/BUGHYATUL_KAMIL_ARABIC_SHARH_AL_HASIL_WAL_MAHSOOL_JAMI.pdf"
+      },
+      {
+        "id": "rabia_al_hall_al_shafi",
+        "title": "الحل الشافی (شرح بحث الفاعل جامی)",
+        "author": "علماء ديوبند",
+        "subject": "نحو",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/AL_HALL_AL_SHAFI_SHARH_BAHTH_UL_FAIL_JAMI.pdf"
+      },
+      {
+        "id": "rabia_duroos_ul_balagha_bushra",
+        "title": "دروس البلاغة (مکتبۃ البشریٰ رنگین)",
+        "author": "حفني ناصف وآخرون",
+        "subject": "بلاغت",
+        "darja": "درجہ رابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/DurosUlBalaghaAlBushraColor.pdf"
+      },
+      {
+        "id": "rabia_tafheem_ul_balagha",
+        "title": "تفهيم البلاغة (اردو شرح دروس البلاغة)",
+        "author": "مولانا تفهيم الدين",
+        "subject": "بلاغت",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TafheemUlBalaghaUrduSharhDuroosUlBalagha.pdf"
+      },
+      {
+        "id": "rabia_tahzeeb_ul_balagha",
+        "title": "تهذيب البلاغة (اردو شرح دروس البلاغة)",
+        "author": "مولانا تهذيب الحسن",
+        "subject": "بلاغت",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TahzeebUlBalaghaUrduSharhDuroosUlBalagha.pdf"
+      },
+      {
+        "id": "rabia_tohfat_ul_balagha",
+        "title": "تحفة البلاغة (اردو شرح دروس البلاغة)",
+        "author": "مولانا تحفة علي",
+        "subject": "بلاغت",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TohfatUlBalaghaUrduSharhDuroosUlBalagha.pdf"
+      },
+      {
+        "id": "rabia_miftah_ul_balagha",
+        "title": "مفتاح البلاغة (اردو شرح دروس البلاغة)",
+        "author": "مولانا مفتاح الرحمن",
+        "subject": "بلاغت",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/MiftahUlBalaghaUrduSharhDuroosUlBalagha.pdf"
+      },
+      {
+        "id": "rabia_duroos_ul_balagha_meer_muhammad",
+        "title": "دروس البلاغة (میر محمد کتب خانہ)",
+        "author": "حفني ناصف وآخرون",
+        "subject": "بلاغت",
+        "darja": "درجہ رابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaKhamsa5thYear/DurosUlBalaghaMeerMuhammad.pdf"
+      },
+      {
+        "id": "rabia_maqamat_haririyyah_bushra",
+        "title": "مقامات الحريري (مکتبۃ البشریٰ رنگین)",
+        "author": "أبو محمد القاسم الحريري",
+        "subject": "عربی ادب",
+        "darja": "درجہ رابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/AlMaqamatUlHareriyahAlBushraColor.pdf"
+      },
+      {
+        "id": "rabia_sharh_maqamat_hariri",
+        "title": "شرح مقامات الحريري",
+        "author": "علامة الحريري",
+        "subject": "عربی ادب",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/SharhMaqamatUlHareri.pdf"
+      },
+      {
+        "id": "rabia_duroos_e_maqamat",
+        "title": "دروس مقامات (اردو شرح مقامات الحريري)",
+        "author": "علماء ديوبند",
+        "subject": "عربی ادب",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/DuroosEMaqamatUrduSharhMaqamat.pdf"
+      },
+      {
+        "id": "rabia_dars_e_maqamat",
+        "title": "درس مقامات (اردو شرح مقامات الحريري)",
+        "author": "مولانا درس علي",
+        "subject": "عربی ادب",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/DarsEMaqamatUrduSharhMaqamat.pdf"
+      },
+      {
+        "id": "rabia_al_kamalat_ul_wahidia",
+        "title": "الكمالات الوحيدية (اردو شرح مقامات)",
+        "author": "مولانا وحيد الزمان",
+        "subject": "عربی ادب",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/AlKamalatUlWahidiaUrduSharhMaqamat.pdf"
+      },
+      {
+        "id": "rabia_tuhfat_ul_mushtaq",
+        "title": "تحفة المشتاق (شرح مقامات الحريري)",
+        "author": "مولانا مشتاق احمد",
+        "subject": "عربی ادب",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TuhfaTulMushtaaq.pdf"
+      },
+      {
+        "id": "rabia_taiseer_e_maqamat",
+        "title": "تيسير مقامات (اردو شرح مقامات الحريري)",
+        "author": "مولانا تيسير الحق",
+        "subject": "عربی ادب",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TaiseerEMaqamatUrduSharhMaqamat.pdf"
+      },
+      {
+        "id": "rabia_al_ifazat_maqamat",
+        "title": "الإفاضات (اردو شرح مقامات الحريري)",
+        "author": "مولانا افاضة الرحمن",
+        "subject": "عربی ادب",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/AlIfazatUrduSharhMaqamat.pdf"
+      },
+      {
+        "id": "rabia_tashrihat_maqamat",
+        "title": "تشريحات (اردو شرح مقامات الحريري)",
+        "author": "مولانا تشريح علي",
+        "subject": "عربی ادب",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TashrihatUrduSharhMaqamat.pdf"
+      },
+      {
+        "id": "rabia_muallam_insha_3",
+        "title": "معلم الانشاء (جلد سوم)",
+        "author": "مولانا عبد المجيد الندوي",
+        "subject": "انشاء",
+        "darja": "درجہ رابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/MuallimUlInshaVol3.pdf"
+      },
+      {
+        "id": "rabia_al_qutbi_bushra",
+        "title": "القطبي (مکتبۃ البشریٰ رنگین)",
+        "author": "قطب الدين الرازي",
+        "subject": "منطق",
+        "darja": "درجہ رابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/AlQutbiAlBushraColor.pdf"
+      },
+      {
+        "id": "rabia_tasheel_e_qutbi",
+        "title": "تسهيل قطبي (اردو شرح القطبي)",
+        "author": "مولانا تسهيل الدين",
+        "subject": "منطق",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TasheelEQutbiUrduSharhAlQutbi.pdf"
+      },
+      {
+        "id": "rabia_tasheel_ul_qutbi_tasdiqat",
+        "title": "تسهيل القطبي (قسم التصديقات)",
+        "author": "مولانا تسهيل الدين",
+        "subject": "منطق",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TASHEEL_UL_QUTBI_TASDIQAAT.pdf"
+      },
+      {
+        "id": "rabia_ashraf_ul_qutbi",
+        "title": "أشرف القطبي (اردو شرح القطبي)",
+        "author": "مولانا اشرف علي",
+        "subject": "منطق",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/AshrafUlQutbi2.pdf"
+      },
+      {
+        "id": "rabia_taiseer_e_qutbi",
+        "title": "تيسير قطبي (اردو شرح القطبي)",
+        "author": "مولانا تيسير الحق",
+        "subject": "منطق",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TaiseerEQutbi.pdf"
+      },
+      {
+        "id": "rabia_khulasat_e_qutbi",
+        "title": "خلاصة قطبي (اردو شرح القطبي)",
+        "author": "مولانا خلاصة الدين",
+        "subject": "منطق",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/KHULAS_E_QUTBI.pdf"
+      },
+      {
+        "id": "rabia_ilham_ul_bari_qutbi",
+        "title": "إلهام الباري في تسهيل القطبي",
+        "author": "مولانا إلهام الحق",
+        "subject": "منطق",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/IlhamUlBariFiTasheelAlQutbi.pdf"
+      },
+      {
+        "id": "rabia_khulasat_ul_qutbi",
+        "title": "خلاصة القطبي (اردو شرح القطبي)",
+        "author": "مولانا خلاصة الرحمن",
+        "subject": "منطق",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/KHULASATUL_QUTBI.pdf"
+      },
+      {
+        "id": "rabia_tafheem_e_qutbi",
+        "title": "تفهيم قطبي (اردو شرح القطبي)",
+        "author": "مولانا تفهيم الدين",
+        "subject": "منطق",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/TAFHIM_E_QUTBI.pdf"
+      },
+      {
+        "id": "rabia_qutbi_notes",
+        "title": "قطبي نوٹس (شرح قطبی نوٹس)",
+        "author": "علماء ديوبند",
+        "subject": "منطق",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/zabooks/QUTBI_NOTES.pdf"
+      },
+      {
+        "id": "rabia_hal_shuda_parchajaat",
+        "title": "حل شدہ پرچہ جات (درجہ رابعہ)",
+        "author": "وفاق المدارس العربیة",
+        "subject": "امتحانات / پرچہ جات",
+        "darja": "درجہ رابعہ",
+        "type": "شرح",
+        "pdfUrl": "https://archive.org/download/DarsENizamiDarjaRabea4thYear/HAL_SHUDA_PARCHAJAAT_DARJA_RABIA.pdf"
+      },
+      {
+        "id": "rabia_noor_ul_anwar_vol1_bushra_color",
+        "title": "نور الانوار جلد اول (مکتبۃ البشریٰ رنگین ایڈیشن)",
+        "author": "علامہ احمد بن ابی سعید الشیخ ملا جیونؒ",
+        "subject": "اصول فقہ",
+        "darja": "درجہ رابعہ",
+        "type": "اصل کتاب",
+        "pdfUrl": "http://www.mediafire.com/file/rj0cu9ykkcrt5cw/NoorUlAnwaarVol1AlBushraColor.pdf/file"
+      }
+    ]
+  }
+]
